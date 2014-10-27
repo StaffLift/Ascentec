@@ -1,4 +1,0 @@
-Ascentec
-========
-
-SL Wireframe
